@@ -1,0 +1,25 @@
+{
+  "name": "doc-algorithm.wuxiao.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/doc-algorithm.wuxiao.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/doc-algorithm.wuxiao.io/issues"
+  },
+  "homepage": "https://github.com/weisuoke/doc-algorithm.wuxiao.io#readme",
+  "dependencies": {
+    "dumi": "^1.1.29"
+  }
+}
