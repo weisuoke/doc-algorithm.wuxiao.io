@@ -1,7 +1,7 @@
 ---
 nav:
     title: 九章-高频冲刺
-    order: 10
+    order: 20
 title: 目录
 order: 1
 ---
