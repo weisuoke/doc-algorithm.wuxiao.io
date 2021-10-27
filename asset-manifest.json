@@ -1,0 +1,138 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "/umi.js"
+    ],
+    "wrappers": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~wrappers.chunk.css",
+      "/vendors~wrappers.js",
+      "/wrappers.js"
+    ],
+    "dumi_demos": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+      "/vendors~dumi_demos.chunk.css",
+      "/vendors~dumi_demos.js",
+      "/dumi_demos.js"
+    ],
+    "docs__index.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__index.md.js"
+    ],
+    "docs__intro__index.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__intro__index.md.js"
+    ],
+    "docs__jiuzhang2021__01.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__01.md.js"
+    ],
+    "docs__jiuzhang2021__04.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__04.md.js"
+    ],
+    "docs__jiuzhang2021__05.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__05.md.js"
+    ],
+    "docs__jiuzhang2021__06.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+      "/docs__jiuzhang2021__06.md.js"
+    ],
+    "docs__jiuzhang2021__07.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+      "/docs__jiuzhang2021__07.md.js"
+    ],
+    "docs__jiuzhang2021__08.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__08.md.js"
+    ],
+    "docs__jiuzhang2021__10.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+      "/docs__jiuzhang2021__10.md.js"
+    ],
+    "docs__jiuzhang2021__11.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+      "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+      "/docs__jiuzhang2021__11.md.js"
+    ],
+    "docs__jiuzhang2021__14.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__14.md.js"
+    ],
+    "docs__jiuzhang2021__19.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__19.md.js"
+    ],
+    "docs__jiuzhang2021__20.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__20.md.js"
+    ],
+    "docs__jiuzhang2021__index.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhang2021__index.md.js"
+    ],
+    "docs__jiuzhanggaopin__index.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhanggaopin__index.md.js"
+    ],
+    "docs__jiuzhangsd__index.md": [
+      "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+      "/docs__jiuzhangsd__index.md.js"
+    ]
+  },
+  "vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js": "/vendors~docs__index.md~docs__intro__index.md~docs__jiuzhang2021__01.md~docs__jiuzhang2021__04.md~doc~7845541d.js",
+  "vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.css": "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.chunk.css",
+  "vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js": "/vendors~docs__jiuzhang2021__06.md~docs__jiuzhang2021__07.md~docs__jiuzhang2021__10.md~docs__jiuzhang~a5f7e89c.js",
+  "docs__index.md.js": "/docs__index.md.js",
+  "docs__intro__index.md.js": "/docs__intro__index.md.js",
+  "docs__jiuzhang2021__01.md.js": "/docs__jiuzhang2021__01.md.js",
+  "docs__jiuzhang2021__04.md.js": "/docs__jiuzhang2021__04.md.js",
+  "docs__jiuzhang2021__05.md.js": "/docs__jiuzhang2021__05.md.js",
+  "docs__jiuzhang2021__06.md.js": "/docs__jiuzhang2021__06.md.js",
+  "docs__jiuzhang2021__07.md.js": "/docs__jiuzhang2021__07.md.js",
+  "docs__jiuzhang2021__08.md.js": "/docs__jiuzhang2021__08.md.js",
+  "docs__jiuzhang2021__10.md.js": "/docs__jiuzhang2021__10.md.js",
+  "docs__jiuzhang2021__11.md.js": "/docs__jiuzhang2021__11.md.js",
+  "docs__jiuzhang2021__14.md.js": "/docs__jiuzhang2021__14.md.js",
+  "docs__jiuzhang2021__19.md.js": "/docs__jiuzhang2021__19.md.js",
+  "docs__jiuzhang2021__20.md.js": "/docs__jiuzhang2021__20.md.js",
+  "docs__jiuzhang2021__index.md.js": "/docs__jiuzhang2021__index.md.js",
+  "docs__jiuzhanggaopin__index.md.js": "/docs__jiuzhanggaopin__index.md.js",
+  "docs__jiuzhangsd__index.md.js": "/docs__jiuzhangsd__index.md.js",
+  "dumi_demos.js": "/dumi_demos.js",
+  "umi.js": "/umi.js",
+  "vendors~dumi_demos.css": "/vendors~dumi_demos.chunk.css",
+  "vendors~dumi_demos.js": "/vendors~dumi_demos.js",
+  "vendors~wrappers.css": "/vendors~wrappers.chunk.css",
+  "vendors~wrappers.js": "/vendors~wrappers.js",
+  "wrappers.js": "/wrappers.js",
+  "404.html": "/404.html",
+  "_demos/:uuid/index.html": "/_demos/:uuid/index.html",
+  "index.html": "/index.html",
+  "intro/index.html": "/intro/index.html",
+  "jiuzhang2021/01/index.html": "/jiuzhang2021/01/index.html",
+  "jiuzhang2021/04/index.html": "/jiuzhang2021/04/index.html",
+  "jiuzhang2021/05/index.html": "/jiuzhang2021/05/index.html",
+  "jiuzhang2021/06/index.html": "/jiuzhang2021/06/index.html",
+  "jiuzhang2021/07/index.html": "/jiuzhang2021/07/index.html",
+  "jiuzhang2021/08/index.html": "/jiuzhang2021/08/index.html",
+  "jiuzhang2021/10/index.html": "/jiuzhang2021/10/index.html",
+  "jiuzhang2021/11/index.html": "/jiuzhang2021/11/index.html",
+  "jiuzhang2021/14/index.html": "/jiuzhang2021/14/index.html",
+  "jiuzhang2021/19/index.html": "/jiuzhang2021/19/index.html",
+  "jiuzhang2021/20/index.html": "/jiuzhang2021/20/index.html",
+  "jiuzhang2021/index.html": "/jiuzhang2021/index.html",
+  "jiuzhanggaopin/index.html": "/jiuzhanggaopin/index.html",
+  "jiuzhangsd/index.html": "/jiuzhangsd/index.html",
+  "~demos/:uuid/index.html": "/~demos/:uuid/index.html"
+}
